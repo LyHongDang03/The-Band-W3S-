@@ -355,6 +355,10 @@ html {
     display: inline-block;
 }
 
+.logo li:hover {
+    opacity: 0.5;
+}
+
 .dcs-footer{
     margin-top: 10px;
     font-size: 15px;
